@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nattyvarella_hub.twa",
+      "sha256_cert_fingerprints": [
+        "31:70:18:3C:D1:9B:D1:8B:2C:04:53:07:13:BD:08:E1:A8:7A:C6:F7:2F:D8:42:77:56:70:BE:9E:9F:05:B8:D9"
+      ]
+    }
+  }
+]
